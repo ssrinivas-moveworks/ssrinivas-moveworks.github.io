@@ -3,8 +3,8 @@
     "data": [
         {
             "id": "cc5ab4c50cef10n0ce14239cc7290000",
-            "descriptor": "Moveworks Floating Holiday Plan",
-            "href": "https://moveworks.com/ccx/api/api/v1/example_tenant/workers/3aa5550b7fe348b98d7b574bafc65534/timeOffPlans/cc5ab4c50cef1000ce14239cc7b90000",
+            "descriptor": "Acme Floating Holiday Plan",
+            "href": "https://acme.com/ccx/api/api/v1/example_tenant/workers/3aa5550b7fe348b98d7b574bafc65534/timeOffPlans/cc5ab4c50cef1000ce14239cc7b90000",
             "unitOfTime": {
                 "descriptor": "Days",
                 "id": "4d9c0a4936614375aa5e97b6223625f2"
@@ -13,8 +13,8 @@
         },
         {
             "id": "7026d1b08ff1101a2997058841a70000",
-            "descriptor": "Moveworks Time Off Plan",
-            "href": "https://moveworks.com/ccx/api/api/v1/example_tenant/workers/3aa5550b7fe348bj8d7b5741afc65534/timeOffPlans/7026d1b08ffd10102997058841a70000",
+            "descriptor": "Acme Time Off Plan",
+            "href": "https://acme.com/ccx/api/api/v1/example_tenant/workers/3aa5550b7fe348bj8d7b5741afc65534/timeOffPlans/7026d1b08ffd10102997058841a70000",
             "unitOfTime": {
                 "descriptor": "Hours",
                 "id": "c4dacbd56bca4a9a8950e8d3ed21bbdb"
